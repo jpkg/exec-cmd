@@ -1,0 +1,2 @@
+dependencies=
+output-jar=bin/exec-cmd-${branch}.jar
